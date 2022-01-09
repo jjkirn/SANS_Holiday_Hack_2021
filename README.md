@@ -2,7 +2,7 @@ __SANS 2021 Holiday Hack Challenge Write-Up__
 =============================================
 Game Completed by 12/27/21
 
-<img source="https://github.com/jjkirn/SANS_Holiday_Hack_2021/blob/main/images/kringlecon4.jpg" width="1024" />
+   ![kringlecon4](images/kringlecon4.jpg)
 
 **Game Link [https://2021.kringlecon.com](https://2021.kringlecon.com)**
 
